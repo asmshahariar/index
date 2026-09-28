@@ -12,13 +12,13 @@ import song from '../assets/audio/song.mp3';
 
 const birthdayConfig = {
   name: 'My Love',
-  title: 'Happy Birthday My Love ❤️',
+  title: 'Happy Birthday Jollad ❤️',
   // Date/time website unlocks. Format: 'YYYY-MM-DDTHH:mm:ss'
   unlockDate: '2026-09-18T00:00:00',
   lockedMessage: "Not yet, I'm not ready for you to see this... come back soon 💕",
   counterWords: ['3', '2', '1'],
-  typingWords: ['HAPPY', 'BIRTHDAY', 'TO MY', 'LOVE'],
-  matrixWords: ['HAPPY', 'BIRTHDAY', 'LOVE'],
+  typingWords: ['HAPPY', 'BIRTHDAY', 'TO MY', 'JOLLAD'],
+  matrixWords: ['HAPPY', 'BIRTHDAY', 'JOLLAD'],
   memories: [
     memory01,
     memory02,
